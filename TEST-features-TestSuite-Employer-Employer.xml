@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="7" errors="0" skipped="0" tests="7" time="0.035538" name="Employer">
+<testcase classname="Employer" name="Backup DB" time="0.018707">
+  <failure message="failed Backup DB" type="failed">
+    <![CDATA[Scenario: Backup DB
+
+Before hook at features/support/hooks.rb:1
+
+Message:
+]]>
+    <![CDATA[
+>>> Error: Failed to open TCP connection to selenium:4444 (getaddrinfo: Name or service not known) (RuntimeError)
+./features/support/hooks.rb:6:in `rescue in block in <top (required)>'
+./features/support/hooks.rb:2:in `Before']]>
+  </failure>
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Employer" name="Register new employer by client" time="0.002845">
+  <failure message="failed Register new employer by client" type="failed">
+    <![CDATA[Scenario: Register new employer by client
+
+Before hook at features/support/hooks.rb:1
+
+Message:
+]]>
+    <![CDATA[
+>>> Error: Failed to open TCP connection to selenium:4444 (getaddrinfo: Name or service not known) (RuntimeError)
+./features/support/hooks.rb:6:in `rescue in block in <top (required)>'
+./features/support/hooks.rb:2:in `Before']]>
+  </failure>
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Employer" name="Create new contract" time="0.002727">
+  <failure message="failed Create new contract" type="failed">
+    <![CDATA[Scenario: Create new contract
+
+Before hook at features/support/hooks.rb:1
+
+Message:
+]]>
+    <![CDATA[
+>>> Error: Failed to open TCP connection to selenium:4444 (getaddrinfo: Name or service not known) (RuntimeError)
+./features/support/hooks.rb:6:in `rescue in block in <top (required)>'
+./features/support/hooks.rb:2:in `Before']]>
+  </failure>
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Employer" name="Edit contract" time="0.002589">
+  <failure message="failed Edit contract" type="failed">
+    <![CDATA[Scenario: Edit contract
+
+Before hook at features/support/hooks.rb:1
+
+Message:
+]]>
+    <![CDATA[
+>>> Error: Failed to open TCP connection to selenium:4444 (getaddrinfo: Name or service not known) (RuntimeError)
+./features/support/hooks.rb:6:in `rescue in block in <top (required)>'
+./features/support/hooks.rb:2:in `Before']]>
+  </failure>
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Employer" name="Add attachment to contract" time="0.002975">
+  <failure message="failed Add attachment to contract" type="failed">
+    <![CDATA[Scenario: Add attachment to contract
+
+Before hook at features/support/hooks.rb:1
+
+Message:
+]]>
+    <![CDATA[
+>>> Error: Failed to open TCP connection to selenium:4444 (getaddrinfo: Name or service not known) (RuntimeError)
+./features/support/hooks.rb:6:in `rescue in block in <top (required)>'
+./features/support/hooks.rb:2:in `Before']]>
+  </failure>
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Employer" name="Delete new contract" time="0.003014">
+  <failure message="failed Delete new contract" type="failed">
+    <![CDATA[Scenario: Delete new contract
+
+Before hook at features/support/hooks.rb:1
+
+Message:
+]]>
+    <![CDATA[
+>>> Error: Failed to open TCP connection to selenium:4444 (getaddrinfo: Name or service not known) (RuntimeError)
+./features/support/hooks.rb:6:in `rescue in block in <top (required)>'
+./features/support/hooks.rb:2:in `Before']]>
+  </failure>
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Employer" name="Restore DB" time="0.002681">
+  <failure message="failed Restore DB" type="failed">
+    <![CDATA[Scenario: Restore DB
+
+Before hook at features/support/hooks.rb:1
+
+Message:
+]]>
+    <![CDATA[
+>>> Error: Failed to open TCP connection to selenium:4444 (getaddrinfo: Name or service not known) (RuntimeError)
+./features/support/hooks.rb:6:in `rescue in block in <top (required)>'
+./features/support/hooks.rb:2:in `Before']]>
+  </failure>
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+</testsuite>
